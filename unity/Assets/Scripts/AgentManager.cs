@@ -1232,6 +1232,7 @@ public class ServerAction
 	public string receptacleObjectId;
 	public float gridSize;
 	public string[] excludeObjectIds;
+	public string [] objectIds;
 	public string objectId;
 	public int agentId;
 	public int thirdPartyCameraId;
